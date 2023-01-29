@@ -330,6 +330,7 @@ img{
         top: 30%;
         left: 5%;
         transform: translate(0);
+        width: 140px;
     }
 
     .showcase-content h1{
@@ -353,6 +354,12 @@ img{
     .btn-xl{
         font-size: 1.2rem;
         padding: 1rem 1rem;
+    }
+
+    .btn-lg{
+        font-size: .7rem;
+        padding: .5rem 1rem;
+        text-transform: uppercase;
     }
 
     .text-xl{
